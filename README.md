@@ -9,12 +9,6 @@ A lightweight Redis clone implementation in Go, capable of handling basic comman
 - Key expiration support (EX/PX flags)
 - Concurrent connection handling
 
-## Setup
-
-To rename the project folder:
-```sh
-mv codecrafters-redis-go redis-go
-```
 
 ## Running
 
